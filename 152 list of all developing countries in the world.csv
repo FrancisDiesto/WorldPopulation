@@ -1,0 +1,153 @@
+﻿Country,Population,GNI per capita,Human Development Index,Human Asset Index
+Afghanistan,38.9 M,500 USD,0.511,42
+Albania,2.8 M,"5,210 USD",0.795,
+Algeria,43.9 M,"3,570 USD",0.748,90.2
+Angola,32.9 M,"2,140 USD",0.581,52
+Antigua and Barbuda,0.1 M,"13,750 USD",0.778,96.4
+Argentina,45.4 M,"9,070 USD",0.845,97.6
+Armenia,3.0 M,"4,220 USD",0.776,94.6
+Aruba,0.1 M,"27,120 USD",,
+Azerbaijan,10.1 M,"4,480 USD",0.756,93
+Bahamas,0.4 M,"26,070 USD",0.814,90.3
+Bahrain,1.7 M,"19,900 USD",0.852,97.9
+Bangladesh,164.7 M,"2,030 USD",0.632,75.3
+Barbados,0.3 M,"14,350 USD",0.814,98
+Belarus,9.4 M,"6,360 USD",0.823,
+Belize,0.4 M,"4,110 USD",0.716,89.3
+Benin,12.1 M,"1,280 USD",0.545,49.4
+Bhutan,0.8 M,"2,840 USD",0.654,79.5
+Bolivia,11.7 M,"3,180 USD",0.718,88.5
+Bosnia and Herzegovina,3.3 M,"6,080 USD",0.78,
+Botswana,2.4 M,"6,640 USD",0.735,83.1
+Brazil,212.6 M,"7,850 USD",0.765,95.9
+Brunei,0.4 M,"31,510 USD",0.838,93.8
+Bulgaria,6.9 M,"9,630 USD",0.816,
+Burkina Faso,20.9 M,770 USD,0.452,56
+Burma,54.4 M,"1,350 USD",0.583,73.9
+Burundi,11.9 M,230 USD,0.433,53.9
+Cambodia,16.7 M,"1,500 USD",0.594,74.3
+Cameroon,26.5 M,"1,520 USD",0.563,61.2
+Cape Verde,0.6 M,"3,060 USD",0.665,91.2
+Central African Republic,4.8 M,500 USD,0.397,27.4
+Chad,16.4 M,630 USD,0.398,18.3
+Chile,19.1 M,"13,470 USD",0.851,99.1
+China,"1,410.9 M","10,550 USD",0.761,95.7
+Colombia,50.9 M,"5,790 USD",0.767,93.9
+Comoros,0.9 M,"1,400 USD",0.554,67.2
+Costa Rica,5.1 M,"11,530 USD",0.81,97.3
+Democratic Republic of the Congo,89.6 M,550 USD,0.48,47.9
+Djibouti,1.0 M,"3,310 USD",0.524,61.9
+Dominica,0.1 M,"7,270 USD",0.742,93.5
+Dominican Republic,10.8 M,"7,260 USD",0.756,90.9
+East Timor,1.3 M,"1,990 USD",0.606,69.5
+Ecuador,17.6 M,"5,530 USD",0.759,90.3
+Egypt,102.3 M,"3,000 USD",0.707,83.3
+El Salvador,6.5 M,"3,630 USD",0.673,88.2
+Equatorial Guinea,1.4 M,"5,810 USD",0.592,67.1
+Eritrea,3.5 M,600 USD,0.459,57.2
+Eswatini,1.2 M,"3,410 USD",0.611,77.1
+Ethiopia,115.0 M,890 USD,0.485,55.3
+Federated States of Micronesia,0.1 M,"3,950 USD",0.62,83.3
+Fiji,0.9 M,"4,890 USD",0.743,94.2
+Gabon,2.2 M,"7,030 USD",0.703,78.5
+Gambia,2.4 M,750 USD,0.496,63.8
+Georgia,3.7 M,"4,270 USD",0.812,98.4
+Ghana,31.1 M,"2,340 USD",0.611,78.5
+Grenada,0.1 M,"9,410 USD",0.779,96.5
+Guatemala,16.9 M,"4,490 USD",0.663,69.3
+Guinea,13.1 M,"1,020 USD",0.477,39.8
+Guinea-Bissau,2.0 M,760 USD,0.48,44
+Guyana,0.8 M,"7,130 USD",0.682,89.8
+Haiti,11.4 M,"1,320 USD",0.51,66.2
+Honduras,9.9 M,"2,180 USD",0.634,83.4
+India,"1,380.0 M","1,920 USD",0.645,74.3
+Indonesia,273.5 M,"3,870 USD",0.718,83.3
+Iran,84.0 M,"2,960 USD",0.783,91.4
+Iraq,40.2 M,"4,680 USD",0.674,75.3
+Ivory Coast,26.4 M,"2,280 USD",0.538,53
+Jamaica,3.0 M,"4,670 USD",0.734,91.3
+Jordan,10.2 M,"4,310 USD",0.729,90.4
+Kazakhstan,18.8 M,"8,710 USD",0.825,98.3
+Kenya,53.8 M,"1,840 USD",0.601,73.2
+Kiribati,0.1 M,"2,960 USD",0.63,81.5
+Kosovo,1.8 M,"4,480 USD",,
+Kuwait,4.3 M,"36,290 USD",0.806,97.5
+Kyrgyzstan,6.6 M,"1,160 USD",0.697,94.5
+Laos,7.3 M,"2,520 USD",0.613,72.8
+Lebanon,6.8 M,"5,370 USD",0.744,88.2
+Lesotho,2.1 M,"1,100 USD",0.527,62.6
+Liberia,5.1 M,570 USD,0.48,45.2
+Libya,6.9 M,"4,960 USD",0.724,83.6
+Madagascar,27.7 M,470 USD,0.528,60.7
+Malawi,19.1 M,580 USD,0.483,55.5
+Malaysia,32.4 M,"10,570 USD",0.81,89.5
+Maldives,0.5 M,"6,490 USD",0.74,89.4
+Mali,20.3 M,830 USD,0.434,45.6
+Marshall Islands,0.1 M,"4,940 USD",0.704,79.6
+Mauritania,4.6 M,"1,670 USD",0.546,54.1
+Mauritius,1.3 M,"10,230 USD",0.804,94.1
+Mexico,128.9 M,"8,480 USD",0.779,94.9
+Moldova,2.6 M,"4,560 USD",0.75,
+Mongolia,3.3 M,"3,740 USD",0.737,95.3
+Montenegro,0.6 M,"7,900 USD",0.829,
+Morocco,36.9 M,"3,020 USD",0.686,83.1
+Mozambique,31.3 M,460 USD,0.456,53.9
+Namibia,2.5 M,"4,500 USD",0.646,83.5
+Nauru,0.0 M,"15,990 USD",,92
+Nepal,29.1 M,"1,190 USD",0.602,74.9
+Nicaragua,6.6 M,"1,850 USD",0.66,85.3
+Niger,24.2 M,550 USD,0.394,35.6
+Nigeria,206.1 M,"2,000 USD",0.539,43.5
+North Macedonia,2.1 M,"5,750 USD",0.774,
+Oman,5.1 M,"15,030 USD",0.813,93.1
+Pakistan,220.9 M,"1,270 USD",0.557,57.6
+Palau,0.0 M,"14,390 USD",0.826,92.1
+Panama,4.3 M,"12,420 USD",0.815,89.1
+Papua New Guinea,8.9 M,"2,720 USD",0.555,53.5
+Paraguay,7.1 M,"5,180 USD",0.728,90.7
+Peru,33.0 M,"6,030 USD",0.777,92.7
+Philippines,109.6 M,"3,430 USD",0.718,84.3
+Poland,38.0 M,"15,240 USD",0.88,
+Qatar,2.9 M,"55,990 USD",0.848,96.2
+Republic of the Congo,5.5 M,"1,770 USD",0.574,68.7
+Romania,19.3 M,"12,580 USD",0.828,
+Russia,144.1 M,"10,690 USD",0.824,
+Rwanda,13.0 M,780 USD,0.543,67.6
+Saint Kitts and Nevis,0.1 M,"19,080 USD",0.779,96.1
+Saint Lucia,0.2 M,"8,560 USD",0.759,93.3
+Saint Vincent and the Grenadines,0.1 M,"7,310 USD",0.738,94.1
+Samoa,0.2 M,"4,050 USD",0.715,96.1
+Sao Tome and Principe,0.2 M,"2,060 USD",0.625,89.4
+Saudi Arabia,34.8 M,"21,930 USD",0.854,95.6
+Senegal,16.7 M,"1,430 USD",0.512,66.4
+Serbia,6.9 M,"7,420 USD",0.806,
+Seychelles,0.1 M,"12,200 USD",0.796,92.4
+Sierra Leone,8.0 M,510 USD,0.452,41.7
+Solomon Islands,0.7 M,"2,300 USD",0.567,73.8
+Somalia,15.9 M,420 USD,,24.3
+South Africa,59.3 M,"6,010 USD",0.709,86.2
+South Sudan,11.2 M,460 USD,0.433,22
+Sri Lanka,21.9 M,"3,720 USD",0.782,93.2
+Sudan,43.8 M,530 USD,0.51,61.9
+Suriname,0.6 M,"4,620 USD",0.738,91.2
+Syria,17.5 M,"1,170 USD",0.567,77.2
+Tajikistan,9.5 M,"1,060 USD",0.668,88.7
+Tanzania,59.7 M,"1,080 USD",0.529,61.1
+Thailand,69.8 M,"7,040 USD",0.777,94
+Togo,8.3 M,920 USD,0.515,58.8
+Tonga,0.1 M,"5,190 USD",0.725,98.4
+Trinidad and Tobago,1.4 M,"15,420 USD",0.796,94.6
+Tunisia,11.8 M,"3,300 USD",0.74,90.8
+Turkey,84.3 M,"9,050 USD",0.82,97.1
+Turkmenistan,6.0 M,"7,220 USD",0.715,92.4
+Tuvalu,0.0 M,"5,820 USD",,82.8
+Uganda,45.7 M,800 USD,0.544,57.8
+Ukraine,44.1 M,"3,570 USD",0.779,
+Uruguay,3.5 M,"15,790 USD",0.817,98.1
+Uzbekistan,34.2 M,"1,740 USD",0.72,95.7
+Vanuatu,0.3 M,"3,190 USD",0.609,77.5
+Venezuela,28.4 M,"13,080 USD",0.711,91.3
+Vietnam,97.3 M,"2,650 USD",0.704,88
+Yemen,29.8 M,910 USD,0.47,57.7
+Zambia,18.4 M,"1,160 USD",0.584,67.1
+Zimbabwe,14.9 M,"1,140 USD",0.571,70.4
